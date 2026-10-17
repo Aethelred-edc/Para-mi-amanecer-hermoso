@@ -29,7 +29,7 @@ const HISTORIA = [
     // --- 2 ÚNICAS ---
     {
         tipo: "unica",
-        archivo: "TU_FOTO_1.png",
+        archivo: "tu_foto_1.png",
         texto: "Mi amor... feliz cumpleaños. Para empezar, mira esta foto...",
         audio: "audio2_foto_unica.mp3",
         sobre: {
