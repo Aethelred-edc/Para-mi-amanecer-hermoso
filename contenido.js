@@ -375,10 +375,9 @@ const HISTORIA = [
     },
     {
         tipo: "unica",
-        audio: "", 
-        diapositivas: [
-            { archivo: "foto_carrusel_juntos_coreano.jpg", texto: "Un momento de película, acompañado de nuestro video." }
-        ],
+        archivo: "foto_carrusel_juntos_coreano.jpg",
+        texto: "Desde siempre tan preciosa. Eres mi mayor tesoro.",
+        audio: ""
     },
 
     // ================= GRAN FINAL =================
