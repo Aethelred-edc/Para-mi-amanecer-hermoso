@@ -414,9 +414,9 @@ const HISTORIA = [
       { segundo: 18.5, texto: "unen nuestro amor indomable." },
       { segundo: 21.0, texto: "Mi corazón amable," },
       { segundo: 23.0, texto: "dice: te amo, mi liriable." }
-    ],
+      ],
+    },
   },
-},
 ];
 
 // No toques esto: expone el contenido para que script.js lo use.
