@@ -30,7 +30,7 @@ const HISTORIA = [
 {
   tipo: "unica",
   archivo: "tu_foto_1.png",
-  texto: "Mi amor... feliz cumpleaños. Para empezar, mira esta foto...",
+  texto: "Mi amor... feliz cumpleaños, te deseo un dia especial. Para empezar, mira esta foto una de sus favoritas...",
   audio: "audio2_foto_unica.mp3",
   sobre: {
     bottom: "6px",
@@ -44,20 +44,20 @@ const HISTORIA = [
       { segundo: 5.5,  texto: "Un momento que enamora," },
       { segundo: 8.0,  texto: "el destino que no demora." },
       { segundo: 11.0, texto: "Un sendero me marcaron" },
-      { segundo: 14.0, texto: "y sus ojos me atraparon," },
-      { segundo: 17.5, texto: "mi corazón empolvado" },
-      { segundo: 20.0, texto: "fue limpio y encontrado." },
-      { segundo: 23.5, texto: "Momentos definidos" },
-      { segundo: 26.0, texto: "para estar siempre unidos," },
-      { segundo: 29.5, texto: "vivir cómodamente juntos" },
-      { segundo: 32.5, texto: "y no encontrarnos en el olvido." }
+      { segundo: 13.0, texto: "y sus ojos me atraparon," },
+      { segundo: 15.5, texto: "mi corazón empolvado" },
+      { segundo: 18.0, texto: "fue limpio y encontrado." },
+      { segundo: 21.5, texto: "Momentos definidos" },
+      { segundo: 23.0, texto: "para estar siempre unidos," },
+      { segundo: 25.5, texto: "vivir cómodamente juntos" },
+      { segundo: 28.5, texto: "y no encontrarnos en el olvido." }
     ],
   },
 },
     {
         tipo: "unica",
         archivo: "foto_unica_barco.png",
-        texto: "Nuestra aventura inolvidable. ¡Feliz cumpleaños, mi amor!",
+        texto: "Ese dia inicie un nuevo hobby para poder regalarle no solo algo de que hablar si no tambien un pequeño detalle",
         audio: ""
     },
 
@@ -390,29 +390,33 @@ const HISTORIA = [
 
     // ================= GRAN FINAL =================
     // --- ÚNICA FINAL CON POEMA Y SOBRE ---
-    {
-        tipo: "unica",
-        archivo: "mi_ft_final.jpg",
-        texto: "Mi amor... hemos llegado al final de este recorrido. Solo me queda decirte que te amo.",
-        audio: "audio2_foto_unica_final.mp3", // O el nombre del audio que uses para esta foto
-
-        sobre: {
-            bottom: "6px",
-            right: "6px",
-            colorTema: "#ff66b2",
-            titulo: "Almas gemelas o compañía decidida", // Mismo título, cerrando el poema
-            audioPoema: "audio3_recitacion_final.mp3", // Tu audio recitando esta segunda parte
-            
-            // Poema Parte 2: El destino y las decisiones
-            karaoke: [
-                { segundo: 0,   texto: "El destino jugó sus cartas a nuestro favor," },
-                { segundo: 3.5, texto: "cruzando nuestros caminos sin avisar," },
-                { segundo: 7.0, texto: "pero fue nuestra firme decisión, mi amor," },
-                { segundo: 11.0, texto: "la que eligió quedarse y jamás soltar." }
-            ],
-        },
-    }
-];
+{
+  tipo: "unica",
+  archivo: "mi_ft_final.jpg",
+  texto: "Mi amor... hemos llegado al final de este recorrido. Solo me queda decirte que te amo.",
+  audio: "audio2_foto_unica_final.mp3", // O el nombre del audio que uses para esta foto
+  sobre: {
+    bottom: "6px",
+    right: "6px",
+    colorTema: "#ff66b2",
+    titulo: "Destino o Decision", // Parte 2 del poema
+    audioPoema: "audio3_recitacion_final.mp3", // Tu audio recitando esta segunda parte
+    karaoke: [
+      { segundo: 0.0,  texto: "Conocí a una persona," },
+      { segundo: 2.5,  texto: "decidí estar con ella sola." },
+      { segundo: 4.5,  texto: "Fue un momento cálido," },
+      { segundo: 6.5,  texto: "mis colores pálidos." },
+      { segundo: 8.5,  texto: "Un camino decidí," },
+      { segundo: 10.5, texto: "y sus ojos quiero ver," },
+      { segundo: 12.0, texto: "mi corazón palpitó," },
+      { segundo: 14.0, texto: "aceptando tu amor." },
+      { segundo: 16.0, texto: "Momentos inolvidables," },
+      { segundo: 18.5, texto: "unen nuestro amor indomable." },
+      { segundo: 21.0, texto: "Mi corazón amable," },
+      { segundo: 23.0, texto: "dice: te amo, mi liriable." }
+    ],
+  },
+},
 
 // No toques esto: expone el contenido para que script.js lo use.
 window.CONTENIDO = { PLAYLIST, HISTORIA };
