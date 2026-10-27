@@ -418,6 +418,6 @@ const HISTORIA = [
   },
 },
 ];
-    
+
 // No toques esto: expone el contenido para que script.js lo use.
 window.CONTENIDO = { PLAYLIST, HISTORIA };
