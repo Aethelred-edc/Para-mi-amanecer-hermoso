@@ -27,25 +27,33 @@ const HISTORIA = [
     
     // ================= BLOQUE 1 =================
     // --- 2 ÚNICAS ---
-    {
-        tipo: "unica",
-        archivo: "tu_foto_1.png",
-        texto: "Mi amor... feliz cumpleaños. Para empezar, mira esta foto...",
-        audio: "audio2_foto_unica.mp3",
-        sobre: {
-            bottom: "6px",
-            right: "6px",
-            colorTema: "#ff66b2",
-            titulo: "Almas gemelas o compañía decidida", // Parte 1 del poema
-            audioPoema: "audio3_recitacion.mp3",
-            karaoke: [
-                { segundo: 0,   texto: "Eres la orquídea de mi jardín," },
-                { segundo: 3.5, texto: "la luz en mi oscuridad," },
-                { segundo: 6.0, texto: "feliz cumpleaños mi amor," },
-                { segundo: 9.0, texto: "gracias por tanta felicidad." },
-            ],
-        },
-    },
+{
+  tipo: "unica",
+  archivo: "tu_foto_1.png",
+  texto: "Mi amor... feliz cumpleaños. Para empezar, mira esta foto...",
+  audio: "audio2_foto_unica.mp3",
+  sobre: {
+    bottom: "6px",
+    right: "6px",
+    colorTema: "#ff66b2",
+    titulo: "Destino o Decision", // Parte 1 del poema
+    audioPoema: "audio3_recitacion.mp3",
+    karaoke: [
+      { segundo: 0.0,  texto: "Entre millones de personas," },
+      { segundo: 2.5,  texto: "me encontré con una sola." },
+      { segundo: 5.5,  texto: "Un momento que enamora," },
+      { segundo: 8.0,  texto: "el destino que no demora." },
+      { segundo: 11.0, texto: "Un sendero me marcaron" },
+      { segundo: 14.0, texto: "y sus ojos me atraparon," },
+      { segundo: 17.5, texto: "mi corazón empolvado" },
+      { segundo: 20.0, texto: "fue limpio y encontrado." },
+      { segundo: 23.5, texto: "Momentos definidos" },
+      { segundo: 26.0, texto: "para estar siempre unidos," },
+      { segundo: 29.5, texto: "vivir cómodamente juntos" },
+      { segundo: 32.5, texto: "y no encontrarnos en el olvido." }
+    ],
+  },
+},
     {
         tipo: "unica",
         archivo: "foto_unica_barco.png",
