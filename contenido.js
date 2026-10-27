@@ -66,9 +66,9 @@ const HISTORIA = [
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_3.jpg", texto: "Desliza para ver más recuerdos hermosos." },
-            { archivo: "foto_carrusel_3.0.jpg", texto: "Aquí nos veíamos guapísimos." },
-            { archivo: "foto_carrusel_3.1.jpg", texto: "Momentos inolvidables." }
+            { archivo: "foto_carrusel_3.jpg", texto: "Oh, de nuestras primeras fts, quien diria que habrian más. Desliza para ver más recuerdos hermosos." },
+            { archivo: "foto_carrusel_3.0.jpg", texto: "Aquí nos veíamos guapísimos y si notas no la apretaba mucho" },
+            { archivo: "foto_carrusel_3.1.jpg", texto: "Aun no tenia tanta confianza pero son momentos inolvidables" }
         ],
     },
 
@@ -76,19 +76,19 @@ const HISTORIA = [
     {
         tipo: "unica",
         archivo: "foto_unica_bb.jpg",
-        texto: "Desde siempre tan preciosa. Eres mi mayor tesoro.",
+        texto: "Que bella la niña, al ver esa ft siempre te veo como una madre muy dulce",
         audio: ""
     },
     {
         tipo: "unica",
         archivo: "foto_unica_beso.png",
-        texto: "Un beso que me llena el alma y me hace volar.",
+        texto: "De nuestras primeras fts. Un beso que me llena el alma y me hace volar.",
         audio: ""
     },
     {
         tipo: "unica",
         archivo: "foto_unica_camisa_roja.jpg",
-        texto: "Ese color te queda espectacular, iluminas todo a tu paso.",
+        texto: "Ya tienes varias camisas mias, poco a poco la mitad de su ropero sera mio. Me gusta darle un poco de mi.",
         audio: ""
     },
 
@@ -98,24 +98,24 @@ const HISTORIA = [
         audio: "", 
         diapositivas: [
             { archivo: "foto_unica_vieja01.jpg", texto: "Recordando nuestros inicios." },
-            { archivo: "foto_unica_vieja1.jpg", texto: "Tantos momentos lindos juntos." },
+            { archivo: "foto_unica_vieja1.jpg", texto: "Donde unas fts no significaban mucho pero a la vez lo eran todo" },
             { archivo: "foto_unica_vieja2.jpg", texto: "El tiempo pasa pero el cariño crece." },
-            { archivo: "foto_unica_vieja3.jpg", texto: "Nuestras primeras aventuras." },
-            { archivo: "foto_unica_vieja4.jpg", texto: "Siempre con una sonrisa." },
-            { archivo: "foto_unica_vieja5.jpg", texto: "Recuerdos que valen oro." },
-            { archivo: "foto_unica_vieja07.jpg", texto: "Inolvidable." },
-            { archivo: "foto_unica_vieja08.jpg", texto: "Nuestra historia." }
+            { archivo: "foto_unica_vieja3.jpg", texto: "Yo las guarde jajaja, aunque no eramos nada me gustaba verte" },
+            { archivo: "foto_unica_vieja4.jpg", texto: "Siempre con una silueta atractiva" },
+            { archivo: "foto_unica_vieja5.jpg", texto: "Recuerdos que valen oro o incluso un poco más, mucho más." },
+            { archivo: "foto_unica_vieja07.jpg", texto: "Eres inolvidable." },
+            { archivo: "foto_unica_vieja08.jpg", texto: "No tengas pena, ya eres mia." }
         ],
     },
     {
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_astetick1.jpg", texto: "Estilo puro." },
-            { archivo: "foto_carrusel_astetick2.jpg", texto: "Capturando el momento." },
-            { archivo: "foto_carrusel_astetick3.jpg", texto: "Vibras estéticas." },
-            { archivo: "foto_carrusel_astetick4.jpg", texto: "Arte en cada foto." },
-            { archivo: "foto_carrusel_astetick5.jpg", texto: "Luces y sombras." },
+            { archivo: "foto_carrusel_astetick1.jpg", texto: "De las fts mas recientes con estilo puro." },
+            { archivo: "foto_carrusel_astetick2.jpg", texto: "Capturando el momento con esos ojos hermosos." },
+            { archivo: "foto_carrusel_astetick3.jpg", texto: "¿Vibras estéticas? Yo diria que deslumbras puro arte." },
+            { archivo: "foto_carrusel_astetick4.jpg", texto: "Arte en cada foto, y arte debo darle." },
+            { archivo: "foto_carrusel_astetick5.jpg", texto: "Te parece ¿amarte? ¿besarte? ¿cuidarte?" },
             { archivo: "foto_carrusel_astetick6.jpg", texto: "Simplemente perfecto." }
         ],
     },
@@ -124,7 +124,7 @@ const HISTORIA = [
     {
         tipo: "video",
         archivo: "miedocamara.mp4",
-        texto: "Amo esa carita de pena ante la cámara, eres la más hermosa del mundo.",
+        texto: "Amo esa carita de pena ante la cámara, sabes eso me hace saber que los nuestros seran grabados por ti y no se perdera ningun momento.",
         audio: ""
     },
 
@@ -134,13 +134,13 @@ const HISTORIA = [
     {
         tipo: "unica",
         archivo: "foto_unica_chiquita_ft.jpg",
-        texto: "Un recuerdo muy tierno que guardo en mi corazón.",
+        texto: "Un recuerdo muy tierno que guardo en mi corazón. Ayyyyy tan chiquita mi niña, tan inocente. ¿Donde estara?",
         audio: ""
     },
     {
         tipo: "unica",
         archivo: "foto_unica_chiquita.jpg",
-        texto: "Mi chiquita hermosa, gracias por existir.",
+        texto: "Mi chiquita hermosa, gracias por existir. Eres linda y siempre has sido linda.",
         audio: ""
     },
 
@@ -149,10 +149,10 @@ const HISTORIA = [
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_colegio1.jpg", texto: "Días de colegio." },
-            { archivo: "foto_carrusel_colegio2.jpg", texto: "Compañeros de aventuras." },
-            { archivo: "foto_carrusel_colegio3.jpg", texto: "Recuerdos de clases." },
-            { archivo: "foto_carrusel_colegio4.jpg", texto: "Esas fotos" }
+            { archivo: "foto_carrusel_colegio1.jpg", texto: "Aunque fue corto me gusto la rutina de mandarme una ft antes de irse a sus días de colegio." },
+            { archivo: "foto_carrusel_colegio2.jpg", texto: "Absolutamente hermosa, te ves espectacular." },
+            { archivo: "foto_carrusel_colegio3.jpg", texto: "Ay mi vida, en esa ft sus ojos se ven cristalinos pense que habia estando llorando." },
+            { archivo: "foto_carrusel_colegio4.jpg", texto: "Una de las mas recientes, siempre me gusta verte gracias." }
         ],
     },
 
@@ -160,19 +160,19 @@ const HISTORIA = [
     {
         tipo: "unica",
         archivo: "foto_unica_colas.jpg",
-        texto: "Tan linda, cada detalle tuyo me enamora más.",
+        texto: "jajjajajj, cuando empezo a decorar su arbolito de navidad. Es lindo que compartas conmigo no lo olvido.",
         audio: ""
     },
     {
         tipo: "unica",
         archivo: "foto_unica_colores_dedos.png",
-        texto: "Pintando juntos nuestra propia historia de amor.",
+        texto: "Waoo, que fachas ¿eres artista? es un lindo recuerdo y muy importante que lo vieras.",
         audio: ""
     },
     {
         tipo: "unica",
         archivo: "foto_unica_cuadro_familiar.png",
-        texto: "Momentos invaluables que siempre atesoraré.",
+        texto: "Tengo el cuadro desactualizado falta que este Tom. Momentos invaluables que siempre atesoraré.",
         audio: ""
     },
 
@@ -181,16 +181,16 @@ const HISTORIA = [
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_con_billy1.jpg", texto: "Con Billy." },
-            { archivo: "foto_carrusel_con_billy2.jpg", texto: "Grandes momentos." }
+            { archivo: "foto_carrusel_con_billy1.jpg", texto: "Tu dices que es nuestro hijo, pero yo no he hecho nada por el y no me conoce, no se si deberia sentirme asi" },
+            { archivo: "foto_carrusel_con_billy2.jpg", texto: "Pero no hay que negar lo bello que es." }
         ],
     },
     {
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_corte.jpg", texto: "Nuevo look." },
-            { archivo: "foto_carrusel_corte1.jpg", texto: "Siempre con estilo." }
+            { archivo: "foto_carrusel_corte.jpg", texto: "No recuerdo muy bien si estan son las fts de cuando se corto el cabello y tuvo un nuevo look." },
+            { archivo: "foto_carrusel_corte1.jpg", texto: "Pero siempre con estilo." }
         ],
     },
 
@@ -198,7 +198,7 @@ const HISTORIA = [
     {
         tipo: "video",
         archivo: "videobrrrsss.mp4",
-        texto: "Tus locuras y ocurrencias son mi parte favorita de cada día. Te amo muchísimo.",
+        texto: "Tus locuras y ocurrencias son mi parte favorita de cada día aunque en este caso la protagonista fue otra pequeña. Te amo muchísimo.",
         audio: ""
     },
 
@@ -224,18 +224,18 @@ const HISTORIA = [
         audio: "", 
         diapositivas: [
             { archivo: "foto_carrusel_cumple1.jpg", texto: "Feliz cumpleaños." },
-            { archivo: "foto_carrusel_cumple2.jpg", texto: "Celebrando a lo grande." },
-            { archivo: "foto_carrusel_cumple3.jpg", texto: "Un año más de vida." },
-            { archivo: "foto_carrusel_cumple4.jpg", texto: "Alegría y fiesta." },
-            { archivo: "foto_carrusel_cumple5.jpg", texto: "Momentos especiales." },
-            { archivo: "foto_carrusel_cumple6.jpg", texto: "Rodeados de cariño." },
-            { archivo: "foto_carrusel_cumple7.jpg", texto: "Sonrisas inolvidables." },
-            { archivo: "foto_carrusel_cumple8.jpg", texto: "Pidiendo un deseo." },
-            { archivo: "foto_carrusel_cumple9.jpg", texto: "Festejando." },
-            { archivo: "foto_carrusel_cumple10.jpg", texto: "El mejor día." },
+            { archivo: "foto_carrusel_cumple2.jpg", texto: "Probablemente muchas de las fts encontradas en esta Galeria no sean de su agrado pero solo es para ti" },
+            { archivo: "foto_carrusel_cumple3.jpg", texto: "Yyyyy siiiii en ese cuello estuviera un poquito de mi, ¿Si le pegan?" },
+            { archivo: "foto_carrusel_cumple4.jpg", texto: "Que bellaaa mi reinaaa." },
+            { archivo: "foto_carrusel_cumple5.jpg", texto: "Oye eres muy alta, y si me saltas?" },
+            { archivo: "foto_carrusel_cumple6.jpg", texto: "jajaja eres la sonrica mas escondida y hermosa que he visto." },
+            { archivo: "foto_carrusel_cumple7.jpg", texto: "Sonrisa inolvidable." },
+            { archivo: "foto_carrusel_cumple8.jpg", texto: "Pidiendo un deseo... oseaaa mi beso." },
+            { archivo: "foto_carrusel_cumple9.jpg", texto: "Mirada que conquistan" },
+            { archivo: "foto_carrusel_cumple10.jpg", texto: "El mejor día y la mejor vista por Diosss." },
             { archivo: "foto_carrusel_cumple11.jpg", texto: "Gracias por estar aquí." },
-            { archivo: "foto_carrusel_cumple12.jpg", texto: "Recuerdos del cumple." },
-            { archivo: "foto_carrusel_cumple13.jpg", texto: "Hasta el próximo año." }
+            { archivo: "foto_carrusel_cumple12.jpg", texto: "Eres hermosa, ¿Ya te lo habia dicho?" },
+            { archivo: "foto_carrusel_cumple13.jpg", texto: "Pues se lo vuelvo a decir eres hermosa." }
         ],
     },
 
@@ -243,19 +243,19 @@ const HISTORIA = [
     {
         tipo: "unica",
         archivo: "foto_unica_flor.jpg",
-        texto: "Una flor hermosa para la mujer que alegra mi vida.",
+        texto: "Una flor hermosa para la mujer que alegra mi vida y combina con su cabello. Fue una ft simple pero que me gusto que la compartieras conmigo.",
         audio: ""
     },
     {
         tipo: "unica",
         archivo: "foto_unica_gancho.png",
-        texto: "Cada pequeño momento contigo es muy especial.",
+        texto: "Cada pequeño momento contigo es muy especial y este fue uno de ellos, yoooo? el mero, mero, indomable con ganchooos? jajja estoy enamorado.",
         audio: ""
     },
     {
         tipo: "unica",
         archivo: "foto_unica_golpe.jpg",
-        texto: "Hasta en nuestros momentos graciosos me doy cuenta de cuánto te amo.",
+        texto: "Hasta en momentos cotidianos me doy cuenta de cuánto te amo. Ey la ft se me hace tierna punto OK?",
         audio: ""
     },
 
@@ -264,20 +264,20 @@ const HISTORIA = [
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_elegante_billy1.jpg", texto: "Poniéndonos elegantes." },
-            { archivo: "foto_carrusel_elegante_billy2.jpg", texto: "Con mucha clase." },
-            { archivo: "foto_carrusel_elegante_billy3.jpg", texto: "Estilo único." },
-            { archivo: "foto_carrusel_elegante_billy4.jpg", texto: "De gala." },
-            { archivo: "foto_carrusel_elegante_billy5.jpg", texto: "Noche especial." }
+            { archivo: "foto_carrusel_elegante_billy1.jpg", texto: "Poniéndonos elegantes por que las gatitas asi me quieren." },
+            { archivo: "foto_carrusel_elegante_billy2.jpg", texto: "La mirada de es personita me descontra de ver a nuesto hijo" },
+            { archivo: "foto_carrusel_elegante_billy3.jpg", texto: "¿Tienes fiesta? Hay mucha belleza en una sola imagen." },
+            { archivo: "foto_carrusel_elegante_billy4.jpg", texto: "Billy no esta un poco enojado? Sera que no me quiere y se pone celoso que me tire besos." },
+            { archivo: "foto_carrusel_elegante_billy5.jpg", texto: "Waooo, todo un cazador y conquistador" }
         ],
     },
     {
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_tom1.jpg", texto: "Poniéndonos elegantes." },
-            { archivo: "foto_carrusel_tom2.jpg", texto: "Con mucha clase." },
-            { archivo: "foto_carrusel_tom3.jpg", texto: "Estilo único." }
+            { archivo: "foto_carrusel_tom1.jpg", texto: "Claramente iba estar estrella que no es estrella, osea TOM." },
+            { archivo: "foto_carrusel_tom2.jpg", texto: "No tengo muchas fts de el, pero segun tambien es mi hijo." },
+            { archivo: "foto_carrusel_tom3.jpg", texto: "Que no sea muy confiansudo, soy un tanto celoso. jaajja." }
         ],
     },
 
@@ -303,7 +303,7 @@ const HISTORIA = [
         audio: "", 
         diapositivas: [
             { archivo: "foto_carrusel_ella_ropa1.jpg", texto: "Hermosa como siempre." },
-            { archivo: "foto_carrusel_ella_ropa2.jpg", texto: "El mejor outfit." }
+            { archivo: "foto_carrusel_ella_ropa2.jpg", texto: "Le falta un poco de brazos, y no para que vayas al Gym, si no para que me invites." }
         ],
     },
 
@@ -341,44 +341,44 @@ const HISTORIA = [
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_ojos_juntos1.png", texto: "Nuestras miradas." },
-            { archivo: "foto_carrusel_ojos_juntos2.png", texto: "Conexión única." }
+            { archivo: "foto_carrusel_ojos_juntos1.png", texto: "Nuestras miradas, son fotos muy bellas." },
+            { archivo: "foto_carrusel_ojos_juntos2.png", texto: "Tenemos una conexion unica, y oye que guapos los 2." }
         ],
     },
     {
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_playa1.jpg", texto: "Días de sol y arena." },
-            { archivo: "foto_carrusel_playa2.jpg", texto: "El mar de fondo." },
-            { archivo: "foto_carrusel_playa3.jpg", texto: "Relajándonos." },
-            { archivo: "foto_carrusel_playa4.jpg", texto: "Brisas de verano." },
-            { archivo: "foto_carrusel_playa5.jpg", texto: "Aventuras costeras." },
-            { archivo: "foto_carrusel_playa6.jpg", texto: "Atardeceres mágicos." }
+            { archivo: "foto_carrusel_playa1.jpg", texto: "Días de sol y arena, se que no lo disfruto como lo queria." },
+            { archivo: "foto_carrusel_playa2.jpg", texto: "Perooo yo si lo disfrute con esa vista, por diooos" },
+            { archivo: "foto_carrusel_playa3.jpg", texto: "Que bella sonrisa." },
+            { archivo: "foto_carrusel_playa4.jpg", texto: "Esos ojos me dan nervios pero aun asi los amo." },
+            { archivo: "foto_carrusel_playa5.jpg", texto: "Ayy amor, de casualida no eres una sirena?" },
+            { archivo: "foto_carrusel_playa6.jpg", texto: "Absolutamente ya se por que no gano en rifas es que mi suerte se fue en estar contigo." }
         ],
     },
     {
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_prueba.jpg", texto: "Haciendo pruebas." },
-            { archivo: "foto_carrusel_prueba2.jpg", texto: "Segunda prueba." }
+            { archivo: "foto_carrusel_prueba.jpg", texto: "2 fts, fue un dia en el cual queria acompañarte por que se acercaba la hora de irme y queria estar cerca de ti" },
+            { archivo: "foto_carrusel_prueba2.jpg", texto: "jjajajja, tu me tomastes fts tambien no?" }
         ],
     },
     {
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_uniforme.jpg", texto: "Con el uniforme." },
-            { archivo: "foto_carrusel_uniforme1.jpg", texto: "Días académicos." }
+            { archivo: "foto_carrusel_uniforme.jpg", texto: "Con el uniforme te ves bella, como seras sin el, ayyy sera como dormir todas mis horas." },
+            { archivo: "foto_carrusel_uniforme1.jpg", texto: "Ponte de nuevo ese uniforme, aun me falta comprobar unas cosas." }
         ],
     },
     {
         tipo: "carrusel",
         audio: "", 
         diapositivas: [
-            { archivo: "foto_carrusel_venta1.png", texto: "Día de ventas." },
-            { archivo: "foto_carrusel_venta2.png", texto: "Trabajando duro." }
+            { archivo: "foto_carrusel_venta1.png", texto: "Ultimo dia en verte, quise estar lo mas que pude contigo." },
+            { archivo: "foto_carrusel_venta2.png", texto: "No le compre nada, bueno le invite a mi prima no mas, pero estaba todo muy rico y de todo me refiero a ti." }
         ],
     },
     {
